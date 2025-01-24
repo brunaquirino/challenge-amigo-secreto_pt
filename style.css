@@ -1,6 +1,6 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-primary: #88bbd1; 
+    --color-secondary: whitesmoke;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
@@ -55,9 +55,9 @@ body {
 /* Títulos */
 .main-title {
     font-size: 48px;
-    font-family: "Merriweather", serif;
+    font-family: "Lucida Console", monospace;
     font-weight: 900;
-    font-style: italic;
+    font-style: bold;
     color: var(--color-white);
 }
 
@@ -136,7 +136,8 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: dimgrey;
+    text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
