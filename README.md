@@ -10,7 +10,7 @@ O objetivo foi de criar um site onde é possível adicionar nomes de pessoas, e 
 
 - Adicionar nomes à lista.
 
-(screenshot pg principal.png)
+(Screenshot pg principal.png)
 
 - Exibir os nomes adicionados.
 
