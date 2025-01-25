@@ -25,3 +25,40 @@ O objetivo foi de criar um site onde é possível adicionar nomes de pessoas, e 
 - HTML
 - CSS
 - JavaScript
+
+## Acesse o site em:
+
+<https://brunaquirino.github.io/challenge-amigo-secreto_pt/>
+
+---------------------
+# Secret Santa Draw
+
+This project was developed as part of the challenge proposed in the ONE course on the [Alura](https://www.alura.com.br) platform.
+
+## About the Project
+
+The goal was to create a website where users can add people's names and then randomly draw a 'Secret Santa'.
+
+## Features
+
+- Add names to a list.
+
+![Adicionar nomes à lista](images/Screenshot-pg-principal.png)
+
+- Display the added names.
+
+![Exibir os nomes adicionados](images/Screenshot-lista.png)
+
+- Randomly draw a name.
+
+![Sortear os nomes aleatoriamente](images/Screenshot-sorteio.png)
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Access the website at:
+
+<https://brunaquirino.github.io/challenge-amigo-secreto_pt/>
