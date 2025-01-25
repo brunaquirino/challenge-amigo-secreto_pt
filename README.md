@@ -10,11 +10,15 @@ O objetivo foi de criar um site onde é possível adicionar nomes de pessoas, e 
 
 - Adicionar nomes à lista.
 
-(Screenshot pg principal.png)
+(images/Screenshot-pg-principal.png)
 
 - Exibir os nomes adicionados.
 
+(images/Screenshot-lista.png)
+
 - Sortear os nomes aleatoriamente.
+
+(images/Screenshot-sorteio.png)
 
 ## Tecnologias Utilizadas
 
